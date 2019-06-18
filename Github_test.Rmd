@@ -1,0 +1,10 @@
+---
+title: "Github test"
+output: html_document
+---
+
+```{r}
+github<-0.678
+githubt2<-9.87
+```
+
